@@ -1,1 +1,1 @@
-# Python-for-Spam-Detection
+# Python for Spam Detection
